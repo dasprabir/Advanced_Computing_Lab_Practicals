@@ -83,8 +83,7 @@ Upon completion of these practicals, students will be able to:
 
 **Prabir Kumar Das**
 
-PhD Scholar
-Indian Institute of Technology Delhi (IIT Delhi)
+
 
 ## License
 
