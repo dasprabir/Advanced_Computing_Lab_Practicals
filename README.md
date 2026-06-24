@@ -81,7 +81,7 @@ Upon completion of these practicals, students will be able to:
 
 ## Author
 
-**Prabir Kumar Das**
+**Prabir Kumar Das**, **Siddhi Pandey**, **Mayuresh**
 
 
 
